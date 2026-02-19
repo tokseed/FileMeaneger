@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 📁 FileManager Pro
+  # 📁 FileManager
   
   ### Элегантный консольный файловый менеджер на C++
 
